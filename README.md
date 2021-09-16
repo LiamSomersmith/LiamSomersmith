@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-👍 I know Python
+👍 I know: Python
 
-📚 I’m currently learning C#
+📚 I’m currently learning: C#
 
-🤔 I want to eventually learn: Java, C++ and Rust
+🤔 I want to learn: 
+* Java
+* C++
+* Rust
