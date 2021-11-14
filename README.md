@@ -8,6 +8,6 @@
 
 🤔 I want to learn: 
 * Java
-* C++
 * C
+* C++
 * Rust
