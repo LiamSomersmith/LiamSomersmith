@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 👍 I know: 
 * Python
@@ -11,4 +11,4 @@
 * C
 * C++
 * Rust
-* Node.JS
+* JavaScript, (specifically Node.JS)
