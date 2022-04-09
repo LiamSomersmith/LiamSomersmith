@@ -7,8 +7,8 @@
 * C#
 
 🤔 I want to learn: 
-* Java
 * C
 * C++
+* Java
 * Rust
 * JavaScript, (specifically Node.JS)
