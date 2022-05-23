@@ -11,4 +11,4 @@
 * C++
 * Java
 * Rust
-* JavaScript, (specifically Node.JS)
+* JavaScript
