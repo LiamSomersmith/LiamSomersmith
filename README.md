@@ -4,9 +4,10 @@
 * Python
 
 📚 I’m currently learning: 
-* C#
+
 
 🤔 I want to learn: 
+* C#
 * C
 * C++
 * Java
