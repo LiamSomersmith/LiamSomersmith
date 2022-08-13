@@ -1,5 +1,11 @@
 ### Hello there! 👋
 
-👍 I know: 
+👍 I can use: 
 * Python
 
+📚 I am interested in learning: 
+* C#
+* Java
+* C / C++
+* Rust
+* (Maybe) Javascript
