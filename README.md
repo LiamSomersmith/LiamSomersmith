@@ -8,4 +8,3 @@
 * Java
 * C / C++
 * Rust
-* (Maybe) Javascript
