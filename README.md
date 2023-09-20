@@ -11,7 +11,7 @@
 
 #### 📚 I am interested in learning: 
 [![Future_Learning](https://skillicons.dev/icons?i=c,cs,cpp,rust,java)](https://skillicons.dev)
-[![Future_Tools](https://skillicons.dev/icons?i=blender,docker,dotnet,git,godot,mysql,mongodb,ps,unity,unreal,visualstduio,arduino,raspberrypi)](https://skillicons.dev)
+[![Future_Tools](https://skillicons.dev/icons?i=blender,docker,dotnet,git,godot,mysql,mongodb,ps,unity,unreal,visualstudio,arduino,raspberrypi)](https://skillicons.dev)
 
 ---
 
