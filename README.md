@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1154057051593506916)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1154057051593506916)](https://dev.discordprofiles.me/openspotify/1154057051593506916)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/508356907711332352)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/508356907711332352)](https://dev.discordprofiles.me/openspotify/508356907711332352)
 
 ---
 
