@@ -1,8 +1,5 @@
 ### Hello there! 👋
 
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/508356907711332352)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/508356907711332352)](https://dev.discordprofiles.me/openspotify/508356907711332352)
-
 ---
 
 #### 👍 I can use: 
