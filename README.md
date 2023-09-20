@@ -1,5 +1,6 @@
 ### Hello there! 👋
 
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ---
 
@@ -18,3 +19,4 @@
 #### You can contact me using:
 - Discord: ThatOzzyGuy *(more likely to respond)*
 - Email: liamsomersmith@gmail.com
+
