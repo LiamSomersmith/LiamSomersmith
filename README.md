@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 ---
 
