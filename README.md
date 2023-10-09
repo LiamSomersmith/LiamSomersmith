@@ -1,5 +1,7 @@
 ### Hello there! 👋
 
+Currently: Learning Haskell and Completeing a NEA for A-level computer science at UTC Reading
+
 ---
 
 #### 👍 I can use: 
