@@ -8,7 +8,6 @@ Currently: Learning Haskell and Completeing a NEA for A-level computer science a
 [![Can_Use](https://skillicons.dev/icons?i=py,vscode,neovim)](https://skillicons.dev)
 
 #### 📑I am Currently Learning:
-[![Current_Learning](https://skillicons.dev/icons?i=haskell)](https://skillicons.dev)
 
 #### 📚 I am interested in learning: 
 [![Future_Learning](https://skillicons.dev/icons?i=c,cpp,cs,java,rust,bash)](https://skillicons.dev)
